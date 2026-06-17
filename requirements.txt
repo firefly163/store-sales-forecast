@@ -1,0 +1,31 @@
+# Store Sales - Time Series Forecasting
+# Kaggle Competition: https://www.kaggle.com/competitions/store-sales-time-series-forecasting
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+lightgbm>=3.3.0
+xgboost>=2.0.0
+catboost>=1.2.0
+
+# Hyperparameter Optimization
+optuna>=3.0.0
+
+# Deep Learning (optional, for LSTM)
+tensorflow>=2.12.0
+
+# Utilities
+tqdm>=4.64.0
+joblib>=1.2.0
+
+# Kaggle API (for data download and submission)
+kaggle>=1.5.0
+kagglehub>=0.2.0

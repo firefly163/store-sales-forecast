@@ -1,0 +1,46 @@
+# === Large data files (use Kaggle/autodl-tmp to store) ===
+train.csv
+test.csv
+transactions.csv
+
+# === Generated submissions ===
+submission*.csv
+
+# === Generated report artifacts ===
+eda/
+features/
+models/
+validation/
+predictions/
+report_assets/
+score_push_blends/
+experiment_report/
+experiment_summary.txt
+feature_list.txt
+
+# === Output directories ===
+/kaggle/
+/output/
+/report/
+*.zip
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# === IDE ===
+.vscode/
+.idea/
+.codex_pydeps/
+
+# === Jupyter ===
+*.ipynb
+
+# === Temp ===
+_kaggle_research/
+
+# === OS ===
+.DS_Store
+Thumbs.db
